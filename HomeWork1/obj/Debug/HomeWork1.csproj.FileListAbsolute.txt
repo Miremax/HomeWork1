@@ -1,0 +1,8 @@
+a:\documents\visual studio 2015\Projects\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+a:\documents\visual studio 2015\Projects\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csprojResolveAssemblyReference.cache
+a:\documents\visual studio 2015\Projects\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+a:\documents\visual studio 2015\Projects\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+a:\documents\visual studio 2015\Projects\HomeWork1\HomeWork1\bin\Debug\Domain.dll
+a:\documents\visual studio 2015\Projects\HomeWork1\HomeWork1\bin\Debug\Domain.pdb
+a:\documents\visual studio 2015\Projects\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+a:\documents\visual studio 2015\Projects\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb

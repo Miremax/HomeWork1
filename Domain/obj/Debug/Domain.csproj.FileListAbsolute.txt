@@ -1,0 +1,5 @@
+a:\documents\visual studio 2015\Projects\HomeWork1\Domain\bin\Debug\Domain.dll
+a:\documents\visual studio 2015\Projects\HomeWork1\Domain\bin\Debug\Domain.pdb
+a:\documents\visual studio 2015\Projects\HomeWork1\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+a:\documents\visual studio 2015\Projects\HomeWork1\Domain\obj\Debug\Domain.dll
+a:\documents\visual studio 2015\Projects\HomeWork1\Domain\obj\Debug\Domain.pdb
